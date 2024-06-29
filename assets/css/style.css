@@ -267,3 +267,20 @@ article#art-proj > div#div-4 > button{
     border: none;
     border-radius: 15px;
 }
+
+footer{
+    background-color: #1b1b1b;
+    height: 107px;
+}
+
+footer > h1{
+    text-align: center;
+}
+
+footer > p#foo-email{
+    margin-bottom: 15px;
+}
+
+footer > p{
+    margin-left: 100px;
+}
