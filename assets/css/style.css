@@ -86,24 +86,24 @@ article{
     border-radius: 15px;
 }
 
-article#Inicio{
+article#art-inicio{
     margin-top: 137px;
 }
 
-article#Inicio> p{
+article#art-inicio> p{
     margin-bottom: 17px;
 }
 
-article#Inicio > h1{
+article#art-inicio > h1{
     color: #639bd6;
     margin-bottom: 5px;
 }
 
-article#Inicio > h3{
+article#art-inicio > h3{
     color: #639bd6;
 }
 
-article#Inicio > a > button{
+article#art-inicio > a > button{
     height: 26px;
     width: 123px;
     color: white;
@@ -113,16 +113,16 @@ article#Inicio > a > button{
     border-radius: 15px;
 }
 
-article#Inicio > a > button:hover{
+article#art-inicio > a > button:hover{
     background-color: #C0E0DE;
     color: black;
 }
 
-article#Inicio > a#GitHub {
+article#art-inicio > a#GitHub {
     margin-left: 32px;
 }
 
-article#Inicio > a{
+article#art-inicio > a{
     background-color:#ffffff00;
 }
 
@@ -167,10 +167,6 @@ article#art-proj{
     margin-bottom: 40px;
 }
 
-article#art-proj > div > button:hover{
-    background-color: rgb(255, 255, 255);
-}
-
 article#art-proj > div#div-1{
     display: flex;
     flex-wrap: wrap;
@@ -196,6 +192,11 @@ article#art-proj > div#div-1 > button{
     border-radius: 15px;
 }
 
+article#art-proj > div#div-1 > button:hover{
+    background-color: #ffffff;
+    color: black;
+}
+
 article#art-proj > div#div-2{
     display: flex;
     flex-wrap: wrap;
@@ -219,6 +220,11 @@ article#art-proj > div#div-2 > button{
     color: white;
     border: none;
     border-radius: 15px;
+}
+
+article#art-proj > div#div-2 > button:hover{
+    background-color: #ffffff;
+    color: black;
 }
 
 article#art-proj > div#div-3{
@@ -247,6 +253,11 @@ article#art-proj > div#div-3 > button{
     border-radius: 15px;
 }
 
+article#art-proj > div#div-3 > button:hover{
+    background-color: #ffffff;
+    color: black;
+}
+
 article#art-proj > div#div-4{
     display: flex;
     flex-wrap: wrap;
@@ -272,7 +283,14 @@ article#art-proj > div#div-4 > button{
     border-radius: 15px;
 }
 
+article#art-proj > div#div-4 > button:hover{
+    background-color: #ffffff;
+    color: black;
+}
+
 footer{
+    margin-right: 31px;
+    margin-left: 31px;
     background-color: #1b1b1b;
     height: 107px;
     border-top-left-radius: 24px;
@@ -284,9 +302,9 @@ footer > h1{
 }
 
 footer > p#foo-email{
-    margin-bottom: 15px;
+    margin-bottom: 6px;
 }
 
 footer > p{
-    margin-left: 100px;
+    margin-left: 77px;
 }
