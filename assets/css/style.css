@@ -167,6 +167,10 @@ article#art-proj{
     margin-bottom: 40px;
 }
 
+article#art-proj > div > button:hover{
+    background-color: rgb(255, 255, 255);
+}
+
 article#art-proj > div#div-1{
     display: flex;
     flex-wrap: wrap;
