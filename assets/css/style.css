@@ -183,7 +183,7 @@ article#art-proj > div#div-1 > img{
     width: 100%;
 }
 
-article#art-proj > div#div-1 > button{
+article#art-proj > div#div-1 > a > button{
     width: 150px;
     height: 25px;
     background-color: #639bd6;
@@ -192,8 +192,8 @@ article#art-proj > div#div-1 > button{
     border-radius: 15px;
 }
 
-article#art-proj > div#div-1 > button:hover{
-    background-color: #ffffff;
+article#art-proj > div#div-1 > a > button:hover{
+    background-color:#9cd6d2;
     color: black;
 }
 
@@ -213,7 +213,7 @@ article#art-proj > div#div-2 > img{
     width: 100%;
 }
 
-article#art-proj > div#div-2 > button{
+article#art-proj > div#div-2 > a > button{
     width: 150px;
     height: 25px;
     background-color: #639bd6;
@@ -222,8 +222,8 @@ article#art-proj > div#div-2 > button{
     border-radius: 15px;
 }
 
-article#art-proj > div#div-2 > button:hover{
-    background-color: #ffffff;
+article#art-proj > div#div-2 > a > button:hover{
+    background-color:#9cd6d2;
     color: black;
 }
 
@@ -244,7 +244,7 @@ article#art-proj > div#div-3 > img{
     width: 100%;
 }
 
-article#art-proj > div#div-3 > button{
+article#art-proj > div#div-3 > a > button{
     width: 150px;
     height: 25px;
     background-color: #639bd6;
@@ -253,8 +253,8 @@ article#art-proj > div#div-3 > button{
     border-radius: 15px;
 }
 
-article#art-proj > div#div-3 > button:hover{
-    background-color: #ffffff;
+article#art-proj > div#div-3 > a > button:hover{
+    background-color:#9cd6d2;
     color: black;
 }
 
@@ -274,7 +274,7 @@ article#art-proj > div#div-4 > img{
     width: 100%;
 }
 
-article#art-proj > div#div-4 > button{
+article#art-proj > div#div-4 > a > button{
     width: 150px;
     height: 25px;
     background-color: #639bd6;
@@ -283,8 +283,8 @@ article#art-proj > div#div-4 > button{
     border-radius: 15px;
 }
 
-article#art-proj > div#div-4 > button:hover{
-    background-color: #ffffff;
+article#art-proj > div#div-4 > a > button:hover{
+    background-color:#9cd6d2;
     color: black;
 }
 
